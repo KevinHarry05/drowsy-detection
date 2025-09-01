@@ -29,6 +29,7 @@ Teachable Machine (model training)
 Jupyter Notebook (implementation)
 
 📂 Repository Structure
+
 drowsy-detection/
 │── Driver Drowsy Detection.ipynb   # Main implementation (Colab Notebook)
 │── README.md                       # Project documentation
